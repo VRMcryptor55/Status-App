@@ -18,25 +18,23 @@ A fullstack web application that allows administrators to manage and monitor the
 - Receive real-time status updates
 
 ## 📁 Project Structure
--backend->src
--frontend->vite-project->src
-project-root/ ├── backend/ │ └── src/ └── frontend/ └── vite-project/ └── src/
+# backend->src
+# frontend->vite-project->src
 
 ## Backend Setup
--go to backend folder and open that folder with code 
+# go to backend folder and open that folder with code 
 
--In terminal write the following codes
+# In terminal write the following codes
 
-  npm install,
-  
-  npm run start:dev,
--I have already added the .env file . It's just for demo
+ # npm install,
+ # npm run start:dev,
+ # I have already added the .env file . It's just for demo
 
 ## Frontend Setup
-go to frontend folder and then open the vite-project folder with code
-In terminal write the following codes
-  npm install
-  npm run dev
+# go to frontend folder and then open the vite-project folder with code
+# In terminal write the following codes
+  # npm install
+  # npm run dev
 
-Frontend will run on http://localhost:5173
-Backend will run on http://localhost:5000
+# Frontend will run on http://localhost:5173
+# Backend will run on http://localhost:5000
