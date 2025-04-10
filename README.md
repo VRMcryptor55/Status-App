@@ -19,6 +19,8 @@ A fullstack web application that allows administrators to manage and monitor the
 
 ## 📁 Project Structure
  backend->src
+
+ 
  frontend->vite-project->src
 
 ## Backend Setup
@@ -27,14 +29,28 @@ A fullstack web application that allows administrators to manage and monitor the
  In terminal write the following codes
 
   npm install,
+
+  
   npm run start:dev,
+
+  
   I have already added the .env file . It's just for demo
 
 ## Frontend Setup
  go to frontend folder and then open the vite-project folder with code
+
+ 
  In terminal write the following codes
+
+ 
    npm install
+
+   
    npm run dev
 
+   
+
  Frontend will run on http://localhost:5173
+
+ 
  Backend will run on http://localhost:5000
