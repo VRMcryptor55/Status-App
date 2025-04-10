@@ -20,6 +20,7 @@ A fullstack web application that allows administrators to manage and monitor the
 ## 📁 Project Structure
 -backend->src
 -frontend->vite-project->src
+project-root/ ├── backend/ │ └── src/ └── frontend/ └── vite-project/ └── src/
 
 ## Backend Setup
 -go to backend folder and open that folder with code 
